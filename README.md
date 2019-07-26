@@ -1,2 +1,2 @@
-# learning_react
-Trying the React Tutorial
+# Learning React
+Nothing special tbh, just trying the React tutorial.
